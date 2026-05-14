@@ -1,0 +1,586 @@
+[
+  {
+    "name": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css",
+    "initiatorType": "link",
+    "duration": 647,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,slnt,wdth,wght,ROND@8..144,-10..0,25..150,400..500,0..100&display=swap",
+    "initiatorType": "link",
+    "duration": 641,
+    "transferSize": 2028,
+    "encodedBodySize": 1728,
+    "decodedBodySize": 6747
+  },
+  {
+    "name": "https://antigravity.google/styles-7KLEMMT6.css",
+    "initiatorType": "link",
+    "duration": 119,
+    "transferSize": 5741,
+    "encodedBodySize": 5441,
+    "decodedBodySize": 20647
+  },
+  {
+    "name": "https://fonts.googleapis.com/css2?family=Google+Symbols:opsz,wght,FILL,GRAD,ROND@40..48,300,0..1,0,50&display=block",
+    "initiatorType": "link",
+    "duration": 613,
+    "transferSize": 723,
+    "encodedBodySize": 423,
+    "decodedBodySize": 709
+  },
+  {
+    "name": "https://antigravity.google/chunk-E6TGZIGP.js",
+    "initiatorType": "other",
+    "duration": 120,
+    "transferSize": 902,
+    "encodedBodySize": 602,
+    "decodedBodySize": 1154
+  },
+  {
+    "name": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js",
+    "initiatorType": "script",
+    "duration": 701,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/main-5LR4F4TY.js",
+    "initiatorType": "script",
+    "duration": 453,
+    "transferSize": 569478,
+    "encodedBodySize": 569178,
+    "decodedBodySize": 1701070
+  },
+  {
+    "name": "https://fonts.gstatic.com/s/googlesansflex/v20/t5t2IQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8LG572o.woff2",
+    "initiatorType": "css",
+    "duration": 1977,
+    "transferSize": 834580,
+    "encodedBodySize": 834280,
+    "decodedBodySize": 834280
+  },
+  {
+    "name": "https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en",
+    "initiatorType": "fetch",
+    "duration": 1200,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://fonts.gstatic.com/s/googlesymbols/v419/HhyqU5Ak9u-oMExPeInvcuEmPosC9zS3FYkFU68cPrjdKM1XMoDZlWmzc3IiWvF1R4oJxQmdBnupCeyl.woff2",
+    "initiatorType": "css",
+    "duration": 1967,
+    "transferSize": 1358880,
+    "encodedBodySize": 1358580,
+    "decodedBodySize": 1358580
+  },
+  {
+    "name": "https://antigravity.google/assets/image/antigravity-cursor.png",
+    "initiatorType": "img",
+    "duration": 176,
+    "transferSize": 6249,
+    "encodedBodySize": 5949,
+    "decodedBodySize": 5949
+  },
+  {
+    "name": "https://antigravity.google/assets/image/landing/landing-thumbnail-frontend.jpg",
+    "initiatorType": "img",
+    "duration": 1097,
+    "transferSize": 2087728,
+    "encodedBodySize": 2087428,
+    "decodedBodySize": 2087428
+  },
+  {
+    "name": "https://antigravity.google/assets/image/landing/landing-thumbnail-fullstack.jpg",
+    "initiatorType": "img",
+    "duration": 1630,
+    "transferSize": 1957327,
+    "encodedBodySize": 1957027,
+    "decodedBodySize": 1957027
+  },
+  {
+    "name": "https://antigravity.google/assets/textures/icons/individual.png",
+    "initiatorType": "img",
+    "duration": 178,
+    "transferSize": 13083,
+    "encodedBodySize": 12783,
+    "decodedBodySize": 12783
+  },
+  {
+    "name": "https://antigravity.google/assets/textures/icons/cube.png",
+    "initiatorType": "img",
+    "duration": 181,
+    "transferSize": 21959,
+    "encodedBodySize": 21659,
+    "decodedBodySize": 21659
+  },
+  {
+    "name": "https://antigravity.google/assets/image/blog/blog-gemini-3-1-pro-square.png",
+    "initiatorType": "img",
+    "duration": 509,
+    "transferSize": 544609,
+    "encodedBodySize": 544309,
+    "decodedBodySize": 544309
+  },
+  {
+    "name": "https://antigravity.google/assets/image/blog/blog-gemini-3-flash-square.png",
+    "initiatorType": "img",
+    "duration": 1130,
+    "transferSize": 648015,
+    "encodedBodySize": 647715,
+    "decodedBodySize": 647715
+  },
+  {
+    "name": "https://antigravity.google/assets/image/landing/landing-thumbnail-enterprise.jpg",
+    "initiatorType": "img",
+    "duration": 1598,
+    "transferSize": 1928267,
+    "encodedBodySize": 1927967,
+    "decodedBodySize": 1927967
+  },
+  {
+    "name": "https://antigravity.google/assets/image/blog/blog-feature-introducing-google-antigravity.png",
+    "initiatorType": "img",
+    "duration": 494,
+    "transferSize": 200853,
+    "encodedBodySize": 200553,
+    "decodedBodySize": 200553
+  },
+  {
+    "name": "https://antigravity.google/assets/image/blog/blog-nano-banana-pro-square.png",
+    "initiatorType": "img",
+    "duration": 1106,
+    "transferSize": 370391,
+    "encodedBodySize": 370091,
+    "decodedBodySize": 370091
+  },
+  {
+    "name": "https://antigravity.google/assets/video/hero_video.mp4",
+    "initiatorType": "video",
+    "duration": 1767,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/an-agent-first-experience.mp4",
+    "initiatorType": "video",
+    "duration": 1685,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/an-ai-ide-core.mp4",
+    "initiatorType": "video",
+    "duration": 1766,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/higher-level-abstractions.mp4",
+    "initiatorType": "video",
+    "duration": 1683,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/cross-surface-agents.mp4",
+    "initiatorType": "video",
+    "duration": 1706,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/user-feedback.mp4",
+    "initiatorType": "video",
+    "duration": 1662,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://www.googletagmanager.com/gtm.js?id=GTM-M4N2ZKXQ",
+    "initiatorType": "script",
+    "duration": 1321,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/user-feedback.mp4",
+    "initiatorType": "video",
+    "duration": 2675,
+    "transferSize": 12021,
+    "encodedBodySize": 11721,
+    "decodedBodySize": 11721
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/higher-level-abstractions.mp4",
+    "initiatorType": "video",
+    "duration": 2655,
+    "transferSize": 16957,
+    "encodedBodySize": 16657,
+    "decodedBodySize": 16657
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/an-agent-first-experience.mp4",
+    "initiatorType": "video",
+    "duration": 2604,
+    "transferSize": 9939,
+    "encodedBodySize": 9639,
+    "decodedBodySize": 9639
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/cross-surface-agents.mp4",
+    "initiatorType": "video",
+    "duration": 4185,
+    "transferSize": 26779,
+    "encodedBodySize": 26479,
+    "decodedBodySize": 26479
+  },
+  {
+    "name": "https://antigravity.google/assets/video/hero_video.mp4",
+    "initiatorType": "video",
+    "duration": 4160,
+    "transferSize": 24105,
+    "encodedBodySize": 23805,
+    "decodedBodySize": 23805
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/an-ai-ide-core.mp4",
+    "initiatorType": "video",
+    "duration": 4137,
+    "transferSize": 11063,
+    "encodedBodySize": 10763,
+    "decodedBodySize": 10763
+  },
+  {
+    "name": "https://www.googletagmanager.com/gtag/js?id=G-47V54ZJ3EV&cx=c&gtm=4e65c0",
+    "initiatorType": "script",
+    "duration": 385,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://www.google-analytics.com/g/collect?v=2&tid=G-47V54ZJ3EV&gtm=45je65c0v9230650139z89230644642za20gzb9230644642zd9230644642&_p=1778751451601&gcs=G111&gcd=13r3r3l3r5l1&npa=0&dma=0&are=1&cid=1476404926.1778751453&frm=0&pscdl=noapi&rcb=15&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B143.0.7499.4%7CChromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=zh-cn&_s=1&tag_exp=0~115616985~115938465~115938468&dl=https%3A%2F%2Fantigravity.google%2F&sid=1778751453&sct=1&seg=0&dt=Google%20Antigravity&en=page_view&_fv=1&_nsi=1&_ss=1&ep.page_locale=default&tfd=7215",
+    "initiatorType": "fetch",
+    "duration": 2162,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/image/product/editor.jpg",
+    "initiatorType": "video",
+    "duration": 1620,
+    "transferSize": 231913,
+    "encodedBodySize": 231613,
+    "decodedBodySize": 231613
+  },
+  {
+    "name": "https://antigravity.google/assets/image/product/agent-manager.jpg",
+    "initiatorType": "img",
+    "duration": 1718,
+    "transferSize": 321707,
+    "encodedBodySize": 321407,
+    "decodedBodySize": 321407
+  },
+  {
+    "name": "https://antigravity.google/assets/image/product/agent.jpg",
+    "initiatorType": "img",
+    "duration": 1787,
+    "transferSize": 162461,
+    "encodedBodySize": 162161,
+    "decodedBodySize": 162161
+  },
+  {
+    "name": "https://antigravity.google/assets/image/product/user-feedback.jpg",
+    "initiatorType": "img",
+    "duration": 1522,
+    "transferSize": 298743,
+    "encodedBodySize": 298443,
+    "decodedBodySize": 298443
+  },
+  {
+    "name": "https://antigravity.google/assets/image/product/artifacts.jpg",
+    "initiatorType": "img",
+    "duration": 1539,
+    "transferSize": 308755,
+    "encodedBodySize": 308455,
+    "decodedBodySize": 308455
+  },
+  {
+    "name": "https://antigravity.google/assets/image/product/knowledge.jpg",
+    "initiatorType": "img",
+    "duration": 1707,
+    "transferSize": 267173,
+    "encodedBodySize": 266873,
+    "decodedBodySize": 266873
+  },
+  {
+    "name": "https://antigravity.google/assets/image/product/browser.jpg",
+    "initiatorType": "img",
+    "duration": 1841,
+    "transferSize": 357257,
+    "encodedBodySize": 356957,
+    "decodedBodySize": 356957
+  },
+  {
+    "name": "https://antigravity.google/assets/video/logo-blue-optimized.mp4",
+    "initiatorType": "video",
+    "duration": 2901,
+    "transferSize": 1716644,
+    "encodedBodySize": 1716344,
+    "decodedBodySize": 1716344
+  },
+  {
+    "name": "https://antigravity.google/assets/video/hero_video.mp4",
+    "initiatorType": "video",
+    "duration": 5,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/editor.mp4",
+    "initiatorType": "video",
+    "duration": 1933,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/pinball_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1915,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/flight_tracker_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1915,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/pendulum_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1915,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/whiteboard_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1853,
+    "transferSize": 300,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/image/icons/use-cases/professional.svg",
+    "initiatorType": "img",
+    "duration": 1802,
+    "transferSize": 814,
+    "encodedBodySize": 514,
+    "decodedBodySize": 1133
+  },
+  {
+    "name": "https://antigravity.google/assets/textures/icons/professional.png",
+    "initiatorType": "img",
+    "duration": 1801,
+    "transferSize": 15783,
+    "encodedBodySize": 15483,
+    "decodedBodySize": 15483
+  },
+  {
+    "name": "https://antigravity.google/assets/image/icons/use-cases/fullstack.svg",
+    "initiatorType": "img",
+    "duration": 1801,
+    "transferSize": 833,
+    "encodedBodySize": 533,
+    "decodedBodySize": 1192
+  },
+  {
+    "name": "https://antigravity.google/assets/image/icons/use-cases/frontend.svg",
+    "initiatorType": "img",
+    "duration": 1802,
+    "transferSize": 659,
+    "encodedBodySize": 359,
+    "decodedBodySize": 738
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/an-agent-first-experience.mp4",
+    "initiatorType": "video",
+    "duration": 1655,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/higher-level-abstractions.mp4",
+    "initiatorType": "video",
+    "duration": 1631,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/user-feedback.mp4",
+    "initiatorType": "video",
+    "duration": 1634,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/whiteboard_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1475,
+    "transferSize": 9165,
+    "encodedBodySize": 8865,
+    "decodedBodySize": 8865
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/pendulum_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1565,
+    "transferSize": 29813,
+    "encodedBodySize": 29513,
+    "decodedBodySize": 29513
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/pinball_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1486,
+    "transferSize": 27152,
+    "encodedBodySize": 26852,
+    "decodedBodySize": 26852
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/flight_tracker_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1542,
+    "transferSize": 33799,
+    "encodedBodySize": 33499,
+    "decodedBodySize": 33499
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/editor.mp4",
+    "initiatorType": "video",
+    "duration": 2292,
+    "transferSize": 21190,
+    "encodedBodySize": 20890,
+    "decodedBodySize": 20890
+  },
+  {
+    "name": "https://antigravity.google/assets/textures/icons/frontend.png",
+    "initiatorType": "img",
+    "duration": 865,
+    "transferSize": 11643,
+    "encodedBodySize": 11343,
+    "decodedBodySize": 11343
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/cross-surface-agents.mp4",
+    "initiatorType": "video",
+    "duration": 896,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/landing/an-ai-ide-core.mp4",
+    "initiatorType": "video",
+    "duration": 866,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/hero_video.mp4",
+    "initiatorType": "video",
+    "duration": 2259,
+    "transferSize": 3278527,
+    "encodedBodySize": 3278227,
+    "decodedBodySize": 3333373
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/whiteboard_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 828,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/pinball_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 971,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/flight_tracker_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 850,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/pendulum_optmized.mp4",
+    "initiatorType": "video",
+    "duration": 1444,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://antigravity.google/assets/textures/icons/fullstack.png",
+    "initiatorType": "img",
+    "duration": 1356,
+    "transferSize": 16146,
+    "encodedBodySize": 15846,
+    "decodedBodySize": 15846
+  },
+  {
+    "name": "https://antigravity.google/assets/video/product-page/editor.mp4",
+    "initiatorType": "video",
+    "duration": 1416,
+    "transferSize": 1148608,
+    "encodedBodySize": 1148308,
+    "decodedBodySize": 1200538
+  },
+  {
+    "name": "https://www.google-analytics.com/g/collect?v=2&tid=G-47V54ZJ3EV&gtm=45je65c0v9230650139z89230644642za20gzb9230644642zd9230644642&_p=1778751451601&gcs=G111&gcd=13r3r3l3r5l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1476404926.1778751453&frm=0&pscdl=noapi&rcb=15&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B143.0.7499.4%7CChromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=zh-cn&tag_exp=0~115616985~115938465~115938468&dl=https%3A%2F%2Fantigravity.google%2Fproduct%2F&sid=1778751453&sct=1&seg=1&dt=Google%20Antigravity%20Product&_s=2&tfd=12521",
+    "initiatorType": "fetch",
+    "duration": 392,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  },
+  {
+    "name": "https://www.google-analytics.com/g/collect?v=2&tid=G-47V54ZJ3EV&gtm=45je65c0v9230650139z89230644642za20gzb9230644642zd9230644642&_p=1778751451601&gcs=G111&gcd=13r3r3l3r5l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1476404926.1778751453&frm=0&pscdl=noapi&rcb=15&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B143.0.7499.4%7CChromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=zh-cn&tag_exp=0~115616985~115938465~115938468&dl=https%3A%2F%2Fantigravity.google%2Fblog%2F&sid=1778751453&sct=1&seg=1&dt=Google%20Antigravity%20Blog&_s=3&tfd=17569",
+    "initiatorType": "fetch",
+    "duration": 99,
+    "transferSize": 0,
+    "encodedBodySize": 0,
+    "decodedBodySize": 0
+  }
+]

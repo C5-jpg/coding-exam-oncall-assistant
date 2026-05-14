@@ -1,0 +1,188 @@
+[
+  {
+    "url": "https://antigravity.google/",
+    "status": 200,
+    "resourceType": "document",
+    "contentType": "text/html"
+  },
+  {
+    "url": "https://antigravity.google/styles-7KLEMMT6.css",
+    "status": 200,
+    "resourceType": "stylesheet",
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://antigravity.google/chunk-E6TGZIGP.js",
+    "status": 200,
+    "resourceType": "script",
+    "contentType": "text/javascript"
+  },
+  {
+    "url": "https://antigravity.google/main-5LR4F4TY.js",
+    "status": 200,
+    "resourceType": "script",
+    "contentType": "text/javascript"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Google+Symbols:opsz,wght,FILL,GRAD,ROND@40..48,300,0..1,0,50&display=block",
+    "status": 200,
+    "resourceType": "stylesheet",
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,slnt,wdth,wght,ROND@8..144,-10..0,25..150,400..500,0..100&display=swap",
+    "status": 200,
+    "resourceType": "stylesheet",
+    "contentType": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css",
+    "status": 200,
+    "resourceType": "stylesheet",
+    "contentType": "text/css"
+  },
+  {
+    "url": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js",
+    "status": 200,
+    "resourceType": "script",
+    "contentType": "text/javascript"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/antigravity-cursor.png",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://antigravity.google/assets/textures/icons/individual.png",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://antigravity.google/assets/textures/icons/cube.png",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/landing/landing-thumbnail-frontend.jpg",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "blob:https://antigravity.google/4c699707-6f9a-4a0c-8c79-56dca2341c0f",
+    "status": 200,
+    "resourceType": "script",
+    "contentType": "application/javascript"
+  },
+  {
+    "url": "blob:https://antigravity.google/603ef388-8bb1-485d-be6f-632f27d82ffd",
+    "status": 200,
+    "resourceType": "script",
+    "contentType": "application/javascript"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-gemini-3-1-pro-square.png",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-feature-introducing-google-antigravity.png",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/landing/landing-thumbnail-fullstack.jpg",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-gemini-3-flash-square.png",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/landing/landing-thumbnail-enterprise.jpg",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/jpeg"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-nano-banana-pro-square.png",
+    "status": 200,
+    "resourceType": "image",
+    "contentType": "image/png"
+  },
+  {
+    "url": "https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en",
+    "status": 200,
+    "resourceType": "fetch",
+    "contentType": "application/json"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesansflex/v20/t5t2IQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8LG572o.woff2",
+    "status": 200,
+    "resourceType": "font",
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/user-feedback.mp4",
+    "status": 206,
+    "resourceType": "media",
+    "contentType": "video/mp4"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/an-agent-first-experience.mp4",
+    "status": 206,
+    "resourceType": "media",
+    "contentType": "video/mp4"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/cross-surface-agents.mp4",
+    "status": 206,
+    "resourceType": "media",
+    "contentType": "video/mp4"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/higher-level-abstractions.mp4",
+    "status": 206,
+    "resourceType": "media",
+    "contentType": "video/mp4"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/hero_video.mp4",
+    "status": 206,
+    "resourceType": "media",
+    "contentType": "video/mp4"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/an-ai-ide-core.mp4",
+    "status": 206,
+    "resourceType": "media",
+    "contentType": "video/mp4"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesymbols/v419/HhyqU5Ak9u-oMExPeInvcuEmPosC9zS3FYkFU68cPrjdKM1XMoDZlWmzc3IiWvF1R4oJxQmdBnupCeyl.woff2",
+    "status": 200,
+    "resourceType": "font",
+    "contentType": "font/woff2"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M4N2ZKXQ",
+    "status": 200,
+    "resourceType": "script",
+    "contentType": "application/javascript; charset=UTF-8"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-47V54ZJ3EV&cx=c&gtm=4e65c0",
+    "status": 200,
+    "resourceType": "script",
+    "contentType": "application/javascript; charset=UTF-8"
+  }
+]

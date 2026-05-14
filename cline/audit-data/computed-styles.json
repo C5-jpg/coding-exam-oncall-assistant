@@ -1,0 +1,140 @@
+{
+  "body": {
+    "selector": "body",
+    "text": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\nExperience liftoff with the next-gen agent platform\nDownload for Windows\nExplore use cases\nplay_arrow",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 8183
+    },
+    "fontFamily": "\"Google Sans Flex\", \"Google Sans\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "rgb(18, 19, 23)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "block",
+    "gap": "normal"
+  },
+  "header": {
+    "selector": "header",
+    "text": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 52
+    },
+    "fontFamily": "\"Google Sans Flex\", \"Google Sans\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "rgb(18, 19, 23)",
+    "backgroundColor": "rgba(255, 255, 255, 0.85)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "block",
+    "gap": "normal"
+  },
+  "nav": {
+    "selector": "nav",
+    "text": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down",
+    "rect": {
+      "x": 269.484375,
+      "y": 8,
+      "width": 487.03125,
+      "height": 36
+    },
+    "fontFamily": "\"Google Sans Flex\", \"Google Sans\", sans-serif",
+    "fontSize": "14.5px",
+    "fontWeight": "450",
+    "lineHeight": "21.02px",
+    "letterSpacing": "0.11px",
+    "color": "rgb(18, 19, 23)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "flex",
+    "gap": "normal"
+  },
+  "h1": {
+    "selector": "h1",
+    "text": "Experience liftoff with the next-gen agent platform",
+    "rect": {
+      "x": 170,
+      "y": 342.28125,
+      "width": 1100,
+      "height": 149.046875
+    },
+    "fontFamily": "\"Google Sans Flex\", \"Google Sans\", sans-serif",
+    "fontSize": "80px",
+    "fontWeight": "450",
+    "lineHeight": "88px",
+    "letterSpacing": "normal",
+    "color": "rgb(18, 19, 23)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "block",
+    "gap": "normal"
+  },
+  "primaryButton": {
+    "selector": "button, a[href*=\"download\"], a",
+    "text": "",
+    "rect": {
+      "x": 72,
+      "y": 13,
+      "width": 161.484375,
+      "height": 28
+    },
+    "fontFamily": "\"Google Sans Flex\", \"Google Sans\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "rgb(69, 71, 77)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "0px",
+    "margin": "2px 36px 0px 0px",
+    "display": "block",
+    "gap": "normal"
+  },
+  "main": {
+    "selector": "main",
+    "text": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\nExperience liftoff with the next-gen agent platform\nDownload for Windows\nExplore use cases\nplay_arrow",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 0
+    },
+    "fontFamily": "\"Google Sans Flex\", \"Google Sans\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "rgb(18, 19, 23)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "borderRadius": "0px",
+    "boxShadow": "none",
+    "padding": "0px",
+    "margin": "0px",
+    "display": "block",
+    "gap": "normal"
+  }
+}

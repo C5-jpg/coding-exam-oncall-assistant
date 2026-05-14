@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="High-fidelity Canvas recreation of the Google Antigravity hero particle motion."
+    />
+    <title>Antigravity Animation Recreation</title>
+  </head>
+  <body>
+    <canvas id="motion-field" aria-hidden="true"></canvas>
+
+    <main class="page-shell">
+      <header class="site-header" data-interactive="soft">
+        <a class="brand" href="#" aria-label="Antigravity home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span class="brand-copy">Google Antigravity</span>
+        </a>
+
+        <nav class="nav-links" aria-label="Primary navigation">
+          <a href="#" data-interactive="soft">Product</a>
+          <a href="#" data-interactive="soft">Use Cases <span aria-hidden="true">⌄</span></a>
+          <a href="#" data-interactive="soft">Pricing</a>
+          <a href="#" data-interactive="soft">Blog</a>
+          <a href="#" data-interactive="soft">Resources <span aria-hidden="true">⌄</span></a>
+        </nav>
+
+        <a class="download-pill" href="#" data-interactive="strong">
+          <span>Download</span>
+          <span class="download-icon" aria-hidden="true">↓</span>
+        </a>
+      </header>
+
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="product-kicker" data-interactive="soft">
+          <span class="brand-mark small" aria-hidden="true"></span>
+          <span>Google Antigravity</span>
+        </div>
+
+        <h1 id="hero-title">Experience liftoff with the next-gen agent platform</h1>
+
+        <div class="hero-actions" aria-label="Hero actions">
+          <a class="primary-cta" href="#" data-interactive="strong">
+            <span class="windows-icon" aria-hidden="true"></span>
+            Download for Windows
+          </a>
+          <a class="secondary-cta" href="#" data-interactive="strong">Explore use cases</a>
+        </div>
+      </section>
+
+      <button class="video-orbit" type="button" data-interactive="strong" aria-label="Play intro video">
+        <span class="play-dot" aria-hidden="true">▶</span>
+        <span>Play intro</span>
+      </button>
+
+      <section class="below-fold" aria-label="Product summary">
+        <div class="summary-card" data-interactive="soft">
+          <span class="brand-mark small" aria-hidden="true"></span>
+          <p>
+            A compact agent-first surface shaped for planning, editing, terminal work, and review.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <div id="debug-panel" class="debug-panel" hidden></div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

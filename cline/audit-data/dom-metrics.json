@@ -1,0 +1,821 @@
+{
+  "title": "Google Antigravity",
+  "url": "https://antigravity.google/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "scrollHeight": 8183,
+  "bodyHeight": 8183,
+  "bodyText": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\nExperience liftoff with the next-gen agent platform\nDownload for Windows\nExplore use cases\nplay_arrow\nPlay intro\nplay_arrow\ndeployed_code\nkeyboard_return\ndeveloper_mode_tv\nspark\ndata_object\nmerge\nrefresh\ncheck_circle\npen_spark\nspark\nkeyboard_tab\nfile_copy\ncommit\nterminal\ndashboard_customize\nfolder\ncode\ndevice_hub\nsearch_spark\nplus_code\nkeyboard_command_key\ncode_blocks\nGoogle Antigravity is our agentic development platform, allowing anyone to build in the agent-first era.\nAn Agent-First Experience\n\nManage multiple agents at the same time, across any workspace, from one central mission control view.\n\nAn IDE Experience\n\nGoogle Antigravity's Editor view offers tab autocompletion, natural language code commands, and a configurable, and context-aware configurable agent.\n\nHigher-level Abstractions\n\nA more intuitive task-based approach to monitoring agent activity, presenting you with essential artifacts and verification results to build trust.\n\nCross-surface Agents\n\nSynchronized agentic control across your editor, terminal, and browser for powerful development workflows.\n\nUser Feedback\n\nIntuitively integrate feedback across surfaces and artifacts to guide and refine the agent’s work.\n\nExplore Product\nBuilt for developers\nfor the agent-first era\n\nGoogle Antigravity is built for user trust, whether you're a professional developer working in a large enterprise codebase, a hobbyist vibe-coding in their spare time, or anyone in between.\n\nFrontend developer\nplay_arrow\nplay_arrow\nWatch case\nFull stack developer\nplay_arrow\nplay_arrow\nWatch case\nEnterprise developer\nplay_arrow\nplay_arrow\nWatch case\nkeyboard_arrow_left\nkeyboard_arrow_right\n\nAvailable at no charge\n\nFor developers\n\nAchieve new heights\n\nDownload\n\nComing soon\n\nFor organizations\n\nLevel up your entire team\n\nNotify me\nLatest Blogs\nView blog\n\nGemini 3.1 Pro in Google Antigravity\n\nFeb 20, 2026\nProduct\nRead blog\n\nGemini 3 Flash in Google Antigravity\n\nDec 18, 2025\nProduct\nRead blog\n\nNano Banana Pro in Google Antigravity\n\nNov 21, 2025\nProduct\nRead blog\n\nIntroducing Google Antigravity\n\nNov 19, 2025\nProduct\nRead blog\nkeyboard_arrow_left\nkeyboard_arrow_right\nDownload Google Antigravity for Windows\nDownload for x64\nDownload for ARM64\n\nExperience liftoff\n\nDownload\nProduct\nDocs\nChangelog\nPress\nReleases\nBlog\nPricing\nUse Cases\nAbout Google\nGoogle Products\nPrivacy\nTerms",
+  "links": [
+    {
+      "text": "",
+      "href": "/",
+      "aria": "Google Antigravity",
+      "className": "logo-link"
+    },
+    {
+      "text": "See overview",
+      "href": "/use-cases",
+      "aria": null,
+      "className": "call-to-action--nav nav-button"
+    },
+    {
+      "text": "workspaces Professional keyboard_arrow_right",
+      "href": "/use-cases/professional",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "code_blocks Frontend keyboard_arrow_right",
+      "href": "/use-cases/frontend",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "stacks Fullstack keyboard_arrow_right",
+      "href": "/use-cases/fullstack",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "Documentation keyboard_arrow_right",
+      "href": "/docs",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "Changelog keyboard_arrow_right",
+      "href": "/changelog",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "Support keyboard_arrow_right",
+      "href": "/support",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "Press keyboard_arrow_right",
+      "href": "/press",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "Releases keyboard_arrow_right",
+      "href": "/releases",
+      "aria": null,
+      "className": "body subnav-link"
+    },
+    {
+      "text": "Explore Product",
+      "href": "/product",
+      "aria": null,
+      "className": "button button-secondary call-to-action"
+    },
+    {
+      "text": "",
+      "href": "/use-cases/frontend",
+      "aria": null,
+      "className": "call-to-action arrow-link"
+    },
+    {
+      "text": "",
+      "href": "/use-cases/fullstack",
+      "aria": null,
+      "className": "call-to-action arrow-link"
+    },
+    {
+      "text": "",
+      "href": "/use-cases/professional",
+      "aria": null,
+      "className": "call-to-action arrow-link"
+    },
+    {
+      "text": "Gemini 3.1 Pro in Google Antigravity\n\nFeb 20, 2026\nProduct\nRead blog",
+      "href": "/blog/gemini-3-1-pro-in-google-antigravity",
+      "aria": null,
+      "className": "list-item"
+    },
+    {
+      "text": "Gemini 3 Flash in Google Antigravity\n\nDec 18, 2025\nProduct\nRead blog",
+      "href": "/blog/gemini-3-flash-in-google-antigravity",
+      "aria": null,
+      "className": "list-item"
+    },
+    {
+      "text": "Nano Banana Pro in Google Antigravity\n\nNov 21, 2025\nProduct\nRead blog",
+      "href": "/blog/nano-banana-pro-in-google-antigravity",
+      "aria": null,
+      "className": "list-item"
+    },
+    {
+      "text": "Introducing Google Antigravity\n\nNov 19, 2025\nProduct\nRead blog",
+      "href": "/blog/introducing-google-antigravity",
+      "aria": null,
+      "className": "list-item"
+    },
+    {
+      "text": "Download",
+      "href": "/download",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Product",
+      "href": "/product",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Docs",
+      "href": "/docs",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Changelog",
+      "href": "/changelog",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Press",
+      "href": "/press",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Releases",
+      "href": "/releases",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Pricing",
+      "href": "/pricing",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Use Cases",
+      "href": "/use-cases",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "",
+      "href": "https://www.google.com",
+      "aria": "Google",
+      "className": "footer-google-logo"
+    },
+    {
+      "text": "About Google",
+      "href": "https://about.google/",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Google Products",
+      "href": "https://about.google/products/",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://policies.google.com/privacy?hl=en-US",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Terms",
+      "href": "/terms",
+      "aria": null,
+      "className": "call-to-action call-to-action--nav"
+    },
+    {
+      "text": "Manage cookies",
+      "href": null,
+      "aria": null,
+      "className": "call-to-action--nav glue-cookie-notification-bar-control"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Product",
+      "aria": "Product",
+      "expanded": "true",
+      "className": "button button-compact button-nav call-to-action--nav dropdown-open"
+    },
+    {
+      "text": "Use Cases\nkeyboard_arrow_down",
+      "aria": "Use Cases",
+      "expanded": "false",
+      "className": "button button-compact button-nav call-to-action--nav dropdown-nav"
+    },
+    {
+      "text": "Pricing",
+      "aria": "Pricing",
+      "expanded": "true",
+      "className": "button button-compact button-nav call-to-action--nav dropdown-open"
+    },
+    {
+      "text": "Blog",
+      "aria": "Blog",
+      "expanded": "true",
+      "className": "button button-compact button-nav call-to-action--nav dropdown-open"
+    },
+    {
+      "text": "Resources\nkeyboard_arrow_down",
+      "aria": "Resources",
+      "expanded": "false",
+      "className": "button button-compact button-nav call-to-action--nav dropdown-nav"
+    },
+    {
+      "text": "Download\ndownload",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-compact button-primary call-to-action--nav download-button dropdown-nav"
+    },
+    {
+      "text": "menu",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-compact button-primary call-to-action--nav menu-toggle"
+    },
+    {
+      "text": "Product",
+      "aria": null,
+      "expanded": "true",
+      "className": "heading-4 mobile-nav-item open"
+    },
+    {
+      "text": "Use Cases keyboard_arrow_down",
+      "aria": null,
+      "expanded": "false",
+      "className": "heading-4 mobile-nav-item"
+    },
+    {
+      "text": "Pricing",
+      "aria": null,
+      "expanded": "true",
+      "className": "heading-4 mobile-nav-item open"
+    },
+    {
+      "text": "Blog",
+      "aria": null,
+      "expanded": "true",
+      "className": "heading-4 mobile-nav-item open"
+    },
+    {
+      "text": "Resources keyboard_arrow_down",
+      "aria": null,
+      "expanded": "false",
+      "className": "heading-4 mobile-nav-item"
+    },
+    {
+      "text": "Download for Windows",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-primary call-to-action"
+    },
+    {
+      "text": "Explore use cases",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-secondary call-to-action"
+    },
+    {
+      "text": "close",
+      "aria": null,
+      "expanded": null,
+      "className": "dialog-close-button symbol"
+    },
+    {
+      "text": "close",
+      "aria": null,
+      "expanded": null,
+      "className": "dialog-close-button symbol"
+    },
+    {
+      "text": "keyboard_arrow_left",
+      "aria": null,
+      "expanded": null,
+      "className": "slider-control-button symbol"
+    },
+    {
+      "text": "keyboard_arrow_right",
+      "aria": null,
+      "expanded": null,
+      "className": "slider-control-button symbol"
+    },
+    {
+      "text": "Download",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-primary call-to-action"
+    },
+    {
+      "text": "Notify me",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-secondary call-to-action"
+    },
+    {
+      "text": "View blog",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-secondary call-to-action"
+    },
+    {
+      "text": "keyboard_arrow_left",
+      "aria": null,
+      "expanded": null,
+      "className": "slider-control-button symbol"
+    },
+    {
+      "text": "keyboard_arrow_right",
+      "aria": null,
+      "expanded": null,
+      "className": "slider-control-button symbol"
+    },
+    {
+      "text": "Download for x64",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-primary-inverse call-to-action"
+    },
+    {
+      "text": "Download for ARM64",
+      "aria": null,
+      "expanded": "false",
+      "className": "button button-secondary-inverse call-to-action"
+    }
+  ],
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Experience liftoff with the next-gen agent platform",
+      "className": "landing-main-header"
+    },
+    {
+      "tag": "H2",
+      "text": "Built for developers\nfor the agent-first era",
+      "className": "heading-4"
+    }
+  ],
+  "sections": [
+    {
+      "tag": "MAIN",
+      "role": null,
+      "aria": null,
+      "className": "",
+      "text": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\nExperience liftoff with the next-gen agent platform\nDownload for Windows\nExplore use cases\nplay_arrow\nPlay intro\nplay_arrow\ndeployed_code\nkeyboard_return\ndeveloper_mode_tv\nspark\ndata_object\nmerge\nrefresh\ncheck_circle\npen_spark\nspark\nkeyboard_tab\nfile_copy\ncommit\nterminal\ndashboard_customize\nfolder\ncode\ndevice_hub\nsearch_spark\nplus_code\nkeyboard_command_key\ncode_blocks\nGoogle Antigravity is our agen",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 0
+      }
+    },
+    {
+      "tag": "HEADER",
+      "role": null,
+      "aria": null,
+      "className": "header",
+      "text": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 52
+      }
+    },
+    {
+      "tag": "NAV",
+      "role": null,
+      "aria": null,
+      "className": "call-to-action--nav nav",
+      "text": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down",
+      "rect": {
+        "x": 269.484375,
+        "y": 8,
+        "width": 487.03125,
+        "height": 36
+      }
+    },
+    {
+      "tag": "NAV",
+      "role": "menu",
+      "aria": null,
+      "className": "subnav",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tag": "NAV",
+      "role": "menu",
+      "aria": null,
+      "className": "subnav",
+      "text": "workspaces Professional keyboard_arrow_rightcode_blocks Frontend keyboard_arrow_rightstacks Fullstack keyboard_arrow_right",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tag": "NAV",
+      "role": "menu",
+      "aria": null,
+      "className": "subnav",
+      "text": "Documentation keyboard_arrow_right Changelog keyboard_arrow_right Support keyboard_arrow_right Press keyboard_arrow_right Releases keyboard_arrow_right",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      }
+    },
+    {
+      "tag": "MAIN",
+      "role": null,
+      "aria": null,
+      "className": "main",
+      "text": "Experience liftoff with the next-gen agent platform\nDownload for Windows\nExplore use cases\nplay_arrow\nPlay intro\nplay_arrow\ndeployed_code\nkeyboard_return\ndeveloper_mode_tv\nspark\ndata_object\nmerge\nrefresh\ncheck_circle\npen_spark\nspark\nkeyboard_tab\nfile_copy\ncommit\nterminal\ndashboard_customize\nfolder\ncode\ndevice_hub\nsearch_spark\nplus_code\nkeyboard_command_key\ncode_blocks\nGoogle Antigravity is our agentic development platform, allowing anyone to build in the agent-first era.\nAn Agent-First Experienc",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 7506.171875
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "welcome-wrapper",
+      "text": "Experience liftoff with the next-gen agent platform\nDownload for Windows\nExplore use cases",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "landing-video-section",
+      "text": "play_arrow\nPlay intro\nplay_arrow",
+      "rect": {
+        "x": 360,
+        "y": 1100.8125,
+        "width": 720,
+        "height": 401.625
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "agent-first-section",
+      "text": "deployed_code\nkeyboard_return\ndeveloper_mode_tv\nspark\ndata_object\nmerge\nrefresh\ncheck_circle\npen_spark\nspark\nkeyboard_tab\nfile_copy\ncommit\nterminal\ndashboard_customize\nfolder\ncode\ndevice_hub\nsearch_spark\nplus_code\nkeyboard_command_key\ncode_blocks\nGoogle Antigravity is our agentic development platform, allowing anyone to build in the agent-first era.",
+      "rect": {
+        "x": 0,
+        "y": 1703.25,
+        "width": 1440,
+        "height": 726.46875
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "feature-explorer-section",
+      "text": "An Agent-First Experience\n\nManage multiple agents at the same time, across any workspace, from one central mission control view.\n\nAn IDE Experience\n\nGoogle Antigravity's Editor view offers tab autocompletion, natural language code commands, and a configurable, and context-aware configurable agent.\n\nHigher-level Abstractions\n\nA more intuitive task-based approach to monitoring agent activity, presenting you with essential artifacts and verification results to build trust.\n\nCross-surface Agents\n\nSy",
+      "rect": {
+        "x": 0,
+        "y": 2429.71875,
+        "width": 1440,
+        "height": 1318.75
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "landing-use-case-section",
+      "text": "Built for developers\nfor the agent-first era\n\nGoogle Antigravity is built for user trust, whether you're a professional developer working in a large enterprise codebase, a hobbyist vibe-coding in their spare time, or anyone in between.\n\nFrontend developer\nplay_arrow\nplay_arrow\nWatch case\nFull stack developer\nplay_arrow\nplay_arrow\nWatch case\nEnterprise developer\nplay_arrow\nplay_arrow\nWatch case\nkeyboard_arrow_left\nkeyboard_arrow_right",
+      "rect": {
+        "x": 0,
+        "y": 3748.46875,
+        "width": 1440,
+        "height": 1128.75
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "try-solutions-section",
+      "text": "Available at no charge\n\nFor developers\n\nAchieve new heights\n\nDownload\n\nComing soon\n\nFor organizations\n\nLevel up your entire team\n\nNotify me",
+      "rect": {
+        "x": 0,
+        "y": 4877.21875,
+        "width": 1440,
+        "height": 839.25
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "landing-latest-blogs",
+      "text": "Latest Blogs\nView blog\n\nGemini 3.1 Pro in Google Antigravity\n\nFeb 20, 2026\nProduct\nRead blog\n\nGemini 3 Flash in Google Antigravity\n\nDec 18, 2025\nProduct\nRead blog\n\nNano Banana Pro in Google Antigravity\n\nNov 21, 2025\nProduct\nRead blog\n\nIntroducing Google Antigravity\n\nNov 19, 2025\nProduct\nRead blog\nkeyboard_arrow_left\nkeyboard_arrow_right",
+      "rect": {
+        "x": 0,
+        "y": 5716.46875,
+        "width": 1440,
+        "height": 725.859375
+      }
+    },
+    {
+      "tag": "SECTION",
+      "role": null,
+      "aria": null,
+      "className": "download-section-container",
+      "text": "Download Google Antigravity for Windows\nDownload for x64\nDownload for ARM64",
+      "rect": {
+        "x": 108,
+        "y": 6630.41650390625,
+        "width": 1224,
+        "height": 771.6669921875
+      }
+    },
+    {
+      "tag": "FOOTER",
+      "role": null,
+      "aria": null,
+      "className": "footer",
+      "text": "Experience liftoff\n\nDownload\nProduct\nDocs\nChangelog\nPress\nReleases\nBlog\nPricing\nUse Cases\nAbout Google\nGoogle Products\nPrivacy\nTerms",
+      "rect": {
+        "x": 0,
+        "y": 7506.171875,
+        "width": 1440,
+        "height": 676.484375
+      }
+    },
+    {
+      "tag": "NAV",
+      "role": null,
+      "aria": null,
+      "className": "footer-google-nav",
+      "text": "About Google\nGoogle Products\nPrivacy\nTerms",
+      "rect": {
+        "x": 744,
+        "y": 8118.65625,
+        "width": 624,
+        "height": 21.015625
+      }
+    }
+  ],
+  "canvases": [
+    {
+      "width": 1440,
+      "height": 900,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900
+      },
+      "className": ""
+    },
+    {
+      "width": 648,
+      "height": 728,
+      "rect": {
+        "x": 72,
+        "y": 4933.21875,
+        "width": 648,
+        "height": 728
+      },
+      "className": ""
+    },
+    {
+      "width": 648,
+      "height": 728,
+      "rect": {
+        "x": 720,
+        "y": 4933.21875,
+        "width": 648,
+        "height": 728
+      },
+      "className": ""
+    },
+    {
+      "width": 1428,
+      "height": 852,
+      "rect": {
+        "x": 113.0999984741211,
+        "y": 6630.41650390625,
+        "width": 1213.800048828125,
+        "height": 724.19970703125
+      },
+      "className": ""
+    }
+  ],
+  "videos": [
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "poster": null,
+      "className": "landing-video"
+    },
+    {
+      "tag": "SOURCE",
+      "src": "/assets/video/hero_video.mp4",
+      "poster": null,
+      "className": ""
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "poster": null,
+      "className": "feature-media-item"
+    },
+    {
+      "tag": "SOURCE",
+      "src": "/assets/video/landing/an-agent-first-experience.mp4",
+      "poster": null,
+      "className": ""
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "poster": null,
+      "className": "feature-media-item"
+    },
+    {
+      "tag": "SOURCE",
+      "src": "/assets/video/landing/an-ai-ide-core.mp4",
+      "poster": null,
+      "className": ""
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "poster": null,
+      "className": "feature-media-item"
+    },
+    {
+      "tag": "SOURCE",
+      "src": "/assets/video/landing/higher-level-abstractions.mp4",
+      "poster": null,
+      "className": ""
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "poster": null,
+      "className": "feature-media-item"
+    },
+    {
+      "tag": "SOURCE",
+      "src": "/assets/video/landing/cross-surface-agents.mp4",
+      "poster": null,
+      "className": ""
+    },
+    {
+      "tag": "VIDEO",
+      "src": null,
+      "poster": null,
+      "className": "feature-media-item"
+    },
+    {
+      "tag": "SOURCE",
+      "src": "/assets/video/landing/user-feedback.mp4",
+      "poster": null,
+      "className": ""
+    }
+  ],
+  "images": [
+    {
+      "alt": "Google Antigravity Blinking Cursor",
+      "src": "https://antigravity.google/assets/image/antigravity-cursor.png",
+      "width": 28,
+      "height": 150,
+      "className": "blinking-cursor"
+    },
+    {
+      "alt": "Google Antigravity Blinking Cursor",
+      "src": "https://antigravity.google/assets/image/antigravity-cursor.png",
+      "width": 28,
+      "height": 150,
+      "className": "blinking-cursor"
+    },
+    {
+      "alt": "Frontend developer",
+      "src": "https://antigravity.google/assets/image/landing/landing-thumbnail-frontend.jpg",
+      "width": 3840,
+      "height": 2160,
+      "className": "list-image"
+    },
+    {
+      "alt": "Google Antigravity Blinking Cursor",
+      "src": "https://antigravity.google/assets/image/antigravity-cursor.png",
+      "width": 28,
+      "height": 150,
+      "className": "blinking-cursor"
+    },
+    {
+      "alt": "Full stack developer",
+      "src": "https://antigravity.google/assets/image/landing/landing-thumbnail-fullstack.jpg",
+      "width": 3840,
+      "height": 2160,
+      "className": "list-image"
+    },
+    {
+      "alt": "Google Antigravity Blinking Cursor",
+      "src": "https://antigravity.google/assets/image/antigravity-cursor.png",
+      "width": 28,
+      "height": 150,
+      "className": "blinking-cursor"
+    },
+    {
+      "alt": "Enterprise developer",
+      "src": "https://antigravity.google/assets/image/landing/landing-thumbnail-enterprise.jpg",
+      "width": 3840,
+      "height": 2160,
+      "className": "list-image"
+    },
+    {
+      "alt": "Google Antigravity Blinking Cursor",
+      "src": "https://antigravity.google/assets/image/antigravity-cursor.png",
+      "width": 28,
+      "height": 150,
+      "className": "blinking-cursor"
+    },
+    {
+      "alt": "Gemini 3.1 Pro in Google Antigravity",
+      "src": "https://antigravity.google/assets/image/blog/blog-gemini-3-1-pro-square.png",
+      "width": 2000,
+      "height": 2000,
+      "className": "list-image"
+    },
+    {
+      "alt": "Gemini 3 Flash in Google Antigravity",
+      "src": "https://antigravity.google/assets/image/blog/blog-gemini-3-flash-square.png",
+      "width": 2000,
+      "height": 2000,
+      "className": "list-image"
+    },
+    {
+      "alt": "Nano Banana Pro in Google Antigravity",
+      "src": "https://antigravity.google/assets/image/blog/blog-nano-banana-pro-square.png",
+      "width": 2000,
+      "height": 2000,
+      "className": "list-image"
+    },
+    {
+      "alt": "Introducing Google Antigravity",
+      "src": "https://antigravity.google/assets/image/blog/blog-feature-introducing-google-antigravity.png",
+      "width": 1000,
+      "height": 1000,
+      "className": "list-image"
+    },
+    {
+      "alt": "Google Antigravity Blinking Cursor",
+      "src": "https://antigravity.google/assets/image/antigravity-cursor.png",
+      "width": 28,
+      "height": 150,
+      "className": "blinking-cursor"
+    }
+  ],
+  "styleSheets": [
+    "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css",
+    "https://antigravity.google/styles-7KLEMMT6.css"
+  ],
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-47V54ZJ3EV&cx=c&gtm=4e65c0",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-M4N2ZKXQ",
+    "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js",
+    "https://antigravity.google/main-5LR4F4TY.js"
+  ]
+}

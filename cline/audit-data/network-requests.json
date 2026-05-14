@@ -1,0 +1,192 @@
+[
+  {
+    "url": "https://antigravity.google/",
+    "method": "GET",
+    "resourceType": "document"
+  },
+  {
+    "url": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.css",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,slnt,wdth,wght,ROND@8..144,-10..0,25..150,400..500,0..100&display=swap",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Google+Symbols:opsz,wght,FILL,GRAD,ROND@40..48,300,0..1,0,50&display=block",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://antigravity.google/styles-7KLEMMT6.css",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://www.gstatic.com/glue/cookienotificationbar/cookienotificationbar.min.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://antigravity.google/chunk-E6TGZIGP.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://antigravity.google/main-5LR4F4TY.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesansflex/v20/t5t2IQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8LG572o.woff2",
+    "method": "GET",
+    "resourceType": "font"
+  },
+  {
+    "url": "https://www.gstatic.com/glue/cookienotificationbar/config/2a.json?hl=en",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/googlesymbols/v419/HhyqU5Ak9u-oMExPeInvcuEmPosC9zS3FYkFU68cPrjdKM1XMoDZlWmzc3IiWvF1R4oJxQmdBnupCeyl.woff2",
+    "method": "GET",
+    "resourceType": "font"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/antigravity-cursor.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/landing/landing-thumbnail-frontend.jpg",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/landing/landing-thumbnail-fullstack.jpg",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/landing/landing-thumbnail-enterprise.jpg",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/textures/icons/individual.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/textures/icons/cube.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-gemini-3-1-pro-square.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-gemini-3-flash-square.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-nano-banana-pro-square.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/image/blog/blog-feature-introducing-google-antigravity.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/hero_video.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/an-agent-first-experience.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/an-ai-ide-core.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/higher-level-abstractions.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/cross-surface-agents.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/user-feedback.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "blob:https://antigravity.google/4c699707-6f9a-4a0c-8c79-56dca2341c0f",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "blob:https://antigravity.google/603ef388-8bb1-485d-be6f-632f27d82ffd",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-M4N2ZKXQ",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/user-feedback.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/higher-level-abstractions.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/an-agent-first-experience.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/cross-surface-agents.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/hero_video.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://antigravity.google/assets/video/landing/an-ai-ide-core.mp4",
+    "method": "GET",
+    "resourceType": "media"
+  },
+  {
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-47V54ZJ3EV&cx=c&gtm=4e65c0",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-47V54ZJ3EV&gtm=45je65c0v9230650139z89230644642za20gzb9230644642zd9230644642&_p=1778751451601&gcs=G111&gcd=13r3r3l3r5l1&npa=0&dma=0&are=1&cid=1476404926.1778751453&frm=0&pscdl=noapi&rcb=15&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B143.0.7499.4%7CChromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=zh-cn&_s=1&tag_exp=0~115616985~115938465~115938468&dl=https%3A%2F%2Fantigravity.google%2F&sid=1778751453&sct=1&seg=0&dt=Google%20Antigravity&en=page_view&_fv=1&_nsi=1&_ss=1&ep.page_locale=default&tfd=7215",
+    "method": "POST",
+    "resourceType": "fetch"
+  }
+]

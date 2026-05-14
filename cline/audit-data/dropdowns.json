@@ -1,0 +1,581 @@
+{
+  "Product": {
+    "label": "Product",
+    "bodyText": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\nAgents that help you achieve liftoff\nDownload for x64\nDownload for ARM64\nSee Google Antigravity in action\n\nWatch to learn how you can transform your development workflow\n\nplay_arrow\nWatch tutorial\nplay_arrow\n\nnote_stack\n\nEvolving to agent-first\n\nIntroducing a new agent-first Agent Manager experience. This innovative approach enables agents to operate seamlessly across all surfaces, including your browser, so they can tackle more complex and long-running tasks.\n\ndeployed_code\n\nA more natural abstraction\n\nGain a complete understanding of agentic operations at the task level, supported by the essential artifacts and verification outcomes, fostering confidence in the agent's actions.\n\nautomatic_cluster\n\nGuidance to go from 90% to 100%\n\nIntuitively provide feedback across every surface and Artifact to steer the agent to your desired outcomes.\n\nExplore the product\nAn agent-first experience\nAgent manager\n\nYour mission control to manage multiple agents in parallel, across multiple workspaces.\n\nEditor\n\nFully-featured AI-powered IDE with Tab, Command, Agents, and more.\n\nAgent\n\nAble to autonomously operate across your editor, terminal, and browser.\n\nArtifacts\n\nDeliverables from the Agent to communicate its progress with you.\n\nUser Feedback\n\nLeave comments and feedback on any Artifact to better guide the Agent.\n\nKnowledge\n\nAntigravity learns from conversations to populate a reusable knowledge base.\n\nBrowser Use\n\nThe agent can use Chrome to navigate and interact with pages for testing.\n\nBuilt for productivity\n\nSee what builders and developers like you have been able to achieve with Google Antigravity.\n\nAuto-playing Pinball Machine\n\nplay_arrow\nplay_arrow\nWatch case\n\nFlight Tracker App\n\nplay_arrow\nplay_arrow\nWatch case\n\nInverted Pendulum Controller\n\nplay_arrow\nplay_arrow\nWatch case\n\nCollaborative Whiteboard App\n\nplay_arrow\nplay_arrow\nWatch case\nkeyboard_arrow_left\nkeyboard_arrow_right\nDownload Google Antigravity for\nfor Windows\nDownload for x64\nDownload for ARM64\n\nExperience liftoff\n\nDownload\nProduct\nDocs\nChangelog\nPress\nReleases\nBlog\nPricing\nUse Cases\nAbout Google\nGoogle Products\nPrivacy\nTerms",
+    "openButtons": [
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Download\ndownload",
+        "expanded": "false"
+      },
+      {
+        "text": "menu",
+        "expanded": "false"
+      },
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "close",
+        "expanded": null
+      },
+      {
+        "text": "keyboard_arrow_left",
+        "expanded": null
+      },
+      {
+        "text": "keyboard_arrow_right",
+        "expanded": null
+      },
+      {
+        "text": "close",
+        "expanded": null
+      },
+      {
+        "text": "Download for x64",
+        "expanded": "false"
+      },
+      {
+        "text": "Download for ARM64",
+        "expanded": "false"
+      }
+    ],
+    "visibleLinks": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Download for x64",
+        "href": "/download"
+      },
+      {
+        "text": "Download for ARM64",
+        "href": "/download"
+      },
+      {
+        "text": "Download",
+        "href": "/download"
+      },
+      {
+        "text": "Product",
+        "href": "/product"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Press",
+        "href": "/press"
+      },
+      {
+        "text": "Releases",
+        "href": "/releases"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Use Cases",
+        "href": "/use-cases"
+      },
+      {
+        "text": "",
+        "href": "https://www.google.com"
+      },
+      {
+        "text": "About Google",
+        "href": "https://about.google/"
+      },
+      {
+        "text": "Google Products",
+        "href": "https://about.google/products/"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://policies.google.com/privacy?hl=en-US"
+      },
+      {
+        "text": "Terms",
+        "href": "/terms"
+      }
+    ]
+  },
+  "Use Cases": {
+    "label": "Use Cases",
+    "bodyText": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\nProfessional\n\nAntigravity comes with a fully-featured AI IDE, but the Agent Manager provides a new mission control surface for background agents to tackle backlog tasks, perform codebase research, and reduce context switching.\n\nExplore use case\nProfessional\nFrontend\nFullstack\n\nExperience liftoff\n\nDownload\nProduct\nDocs\nChangelog\nPress\nReleases\nBlog\nPricing\nUse Cases\nAbout Google\nGoogle Products\nPrivacy\nTerms",
+    "openButtons": [
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Download\ndownload",
+        "expanded": "false"
+      },
+      {
+        "text": "menu",
+        "expanded": "false"
+      },
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Professional",
+        "expanded": null
+      },
+      {
+        "text": "Frontend",
+        "expanded": null
+      },
+      {
+        "text": "Fullstack",
+        "expanded": null
+      }
+    ],
+    "visibleLinks": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Explore use case",
+        "href": "/use-cases/professional"
+      },
+      {
+        "text": "",
+        "href": "/use-cases/frontend"
+      },
+      {
+        "text": "",
+        "href": "/use-cases/fullstack"
+      },
+      {
+        "text": "Download",
+        "href": "/download"
+      },
+      {
+        "text": "Product",
+        "href": "/product"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Press",
+        "href": "/press"
+      },
+      {
+        "text": "Releases",
+        "href": "/releases"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Use Cases",
+        "href": "/use-cases"
+      },
+      {
+        "text": "",
+        "href": "https://www.google.com"
+      },
+      {
+        "text": "About Google",
+        "href": "https://about.google/"
+      },
+      {
+        "text": "Google Products",
+        "href": "https://about.google/products/"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://policies.google.com/privacy?hl=en-US"
+      },
+      {
+        "text": "Terms",
+        "href": "/terms"
+      }
+    ]
+  },
+  "Resources": {
+    "error": "Locator.click: Timeout 3000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Resources\", exact=True).first\n"
+  },
+  "Pricing": {
+    "label": "Pricing",
+    "bodyText": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\nChoose the perfect plan for your journey\nGenerally Available\nIndividual plan\n\n$0/month\n\nA plan for anyone who wants to build.\n\nDownload\n\nPlan includes:\n\ncheck\nAgent model: access to Gemini 3.1 Pro, Gemini 3 Flash, Claude Sonnet & Opus 4.6, gpt-oss-120b\ncheck\nUnlimited Tab completions\ncheck\nUnlimited Command requests\ncheck\nGenerous weekly rate limits *\nRecommended\nDeveloper plan\n\nvia Google One\n\nLeverage Antigravity as your daily driver via your Google AI Pro or Ultra subscription.\n\nDownload\nGet plan\n\nEverything in Individual and:\n\ncheck\nMore generous rate limits *\ncheck\nFlexible AI credit pool *\nComing soon\nOrganization plan\n\nvia Google Cloud\n\nFully enterprise-grade solution for organizations at scale.\n\nNotify me\n\nExperience liftoff\n\nDownload\nProduct\nDocs\nChangelog\nPress\nReleases\nBlog\nPricing\nUse Cases\nAbout Google\nGoogle Products\nPrivacy\nTerms",
+    "openButtons": [
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Download\ndownload",
+        "expanded": "false"
+      },
+      {
+        "text": "menu",
+        "expanded": "false"
+      },
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Download",
+        "expanded": "false"
+      },
+      {
+        "text": "Download",
+        "expanded": "false"
+      },
+      {
+        "text": "Notify me",
+        "expanded": "false"
+      }
+    ],
+    "visibleLinks": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "*",
+        "href": "/docs/plans"
+      },
+      {
+        "text": "Get plan",
+        "href": "/g1-upgrade"
+      },
+      {
+        "text": "*",
+        "href": "/docs/plans"
+      },
+      {
+        "text": "*",
+        "href": "/docs/plans"
+      },
+      {
+        "text": "Download",
+        "href": "/download"
+      },
+      {
+        "text": "Product",
+        "href": "/product"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Press",
+        "href": "/press"
+      },
+      {
+        "text": "Releases",
+        "href": "/releases"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Use Cases",
+        "href": "/use-cases"
+      },
+      {
+        "text": "",
+        "href": "https://www.google.com"
+      },
+      {
+        "text": "About Google",
+        "href": "https://about.google/"
+      },
+      {
+        "text": "Google Products",
+        "href": "https://about.google/products/"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://policies.google.com/privacy?hl=en-US"
+      },
+      {
+        "text": "Terms",
+        "href": "/terms"
+      }
+    ]
+  },
+  "Blog": {
+    "label": "Blog",
+    "bodyText": "Product\nUse Cases\nkeyboard_arrow_down\nPricing\nBlog\nResources\nkeyboard_arrow_down\nDownload\ndownload\n\nFeatured\n\nIntroducing Google Antigravity\n18 Nov 2025\nProduct\nRead blog\nAll\nProduct\nGemini 3.1 Pro in Google Antigravity\n19 Feb 2026\nProduct\nRead blog\nGemini 3 Flash in Google Antigravity\n17 Dec 2025\nProduct\nRead blog\nNano Banana Pro in Google Antigravity\n20 Nov 2025\nProduct\nRead blog\nIntroducing Google Antigravity\n18 Nov 2025\nProduct\nRead blog\n\nExperience liftoff\n\nDownload\nProduct\nDocs\nChangelog\nPress\nReleases\nBlog\nPricing\nUse Cases\nAbout Google\nGoogle Products\nPrivacy\nTerms",
+    "openButtons": [
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources\nkeyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Download\ndownload",
+        "expanded": "false"
+      },
+      {
+        "text": "menu",
+        "expanded": "false"
+      },
+      {
+        "text": "Product",
+        "expanded": "true"
+      },
+      {
+        "text": "Use Cases keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Pricing",
+        "expanded": "true"
+      },
+      {
+        "text": "Blog",
+        "expanded": "true"
+      },
+      {
+        "text": "Resources keyboard_arrow_down",
+        "expanded": "false"
+      },
+      {
+        "text": "Read blog",
+        "expanded": "false"
+      },
+      {
+        "text": "All",
+        "expanded": null
+      },
+      {
+        "text": "Product",
+        "expanded": null
+      },
+      {
+        "text": "Read blog",
+        "expanded": "false"
+      },
+      {
+        "text": "Read blog",
+        "expanded": "false"
+      },
+      {
+        "text": "Read blog",
+        "expanded": "false"
+      },
+      {
+        "text": "Read blog",
+        "expanded": "false"
+      }
+    ],
+    "visibleLinks": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Download",
+        "href": "/download"
+      },
+      {
+        "text": "Product",
+        "href": "/product"
+      },
+      {
+        "text": "Docs",
+        "href": "/docs"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Press",
+        "href": "/press"
+      },
+      {
+        "text": "Releases",
+        "href": "/releases"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Use Cases",
+        "href": "/use-cases"
+      },
+      {
+        "text": "",
+        "href": "https://www.google.com"
+      },
+      {
+        "text": "About Google",
+        "href": "https://about.google/"
+      },
+      {
+        "text": "Google Products",
+        "href": "https://about.google/products/"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://policies.google.com/privacy?hl=en-US"
+      },
+      {
+        "text": "Terms",
+        "href": "/terms"
+      }
+    ]
+  }
+}
