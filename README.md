@@ -2,6 +2,8 @@
 
 本仓库完成 [oriengy/coding-exam](https://github.com/oriengy/coding-exam) 的题目一：**On-Call 助手**。实现内容覆盖 `/v1` 关键词搜索、`/v2` 语义搜索、`/v3` Agent 对话三阶段，并提供前端页面、HTTP API、内置 smoke test、效果截图和详细报告。
 
+公开仓库地址：<https://github.com/C5-jpg/coding-exam-oncall-assistant>
+
 ## 选题
 
 我选择题目一，原因是它可以在离线环境中完整实现并可重复验证。题目二要求对外部站点动画做像素级复刻，评价强依赖运行时页面状态和视觉对比环境；题目一更适合用工程化方式证明解析、检索、Agent 工具约束和接口设计能力。

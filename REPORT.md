@@ -10,6 +10,8 @@
 
 交付目标包括 HTTP API、前端页面、运行说明、效果截图、prompt 记录、完整 Git 历史，以及后续可打包发送的仓库。
 
+公开仓库地址：<https://github.com/C5-jpg/coding-exam-oncall-assistant>
+
 ## 2. 技术选型
 
 ### 2.1 语言与依赖
