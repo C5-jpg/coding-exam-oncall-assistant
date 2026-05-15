@@ -1,0 +1,13 @@
+# On-Call Assistant - Dependencies
+# Python >= 3.10 (tested on 3.11.9)
+
+# Core
+requests>=2.31.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# Web UI
+gradio>=4.0.0
+
+# Tests
+pytest>=7.4.0
