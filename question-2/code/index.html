@@ -3,67 +3,680 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="High-fidelity Canvas recreation of the Google Antigravity hero particle motion."
-    />
-    <title>Antigravity Animation Recreation</title>
+    <meta name="description" content="Google Antigravity — The next-generation agent platform for developers." />
+    <title>Google Antigravity — Build the new way</title>
+    <link rel="icon" type="image/png" href="/images/antigravity-cursor.png" />
   </head>
   <body>
     <canvas id="motion-field" aria-hidden="true"></canvas>
 
-    <main class="page-shell">
-      <header class="site-header" data-interactive="soft">
+    <!-- ============ NAVBAR ============ -->
+    <header class="site-header" id="site-header">
+      <div class="header-inner">
         <a class="brand" href="#" aria-label="Antigravity home">
           <span class="brand-mark" aria-hidden="true"></span>
           <span class="brand-copy">Google Antigravity</span>
         </a>
 
-        <nav class="nav-links" aria-label="Primary navigation">
-          <a href="#" data-interactive="soft">Product</a>
-          <a href="#" data-interactive="soft">Use Cases <span aria-hidden="true">⌄</span></a>
-          <a href="#" data-interactive="soft">Pricing</a>
-          <a href="#" data-interactive="soft">Blog</a>
-          <a href="#" data-interactive="soft">Resources <span aria-hidden="true">⌄</span></a>
+        <nav class="nav-links" id="nav-links" aria-label="Primary navigation">
+          <div class="nav-item" data-dropdown="product">
+            <a href="#product" class="nav-trigger" data-interactive="soft">
+              Product <span class="chevron" aria-hidden="true">▾</span>
+            </a>
+            <div class="mega-menu product-menu">
+              <div class="mega-inner">
+                <div class="mega-left">
+                  <h3>Agent-first platform</h3>
+                  <p>A compact AI surface shaped for planning, editing, terminal work, and autonomous review.</p>
+                </div>
+                <div class="mega-right">
+                  <a href="#product" class="mega-link">
+                    <span class="mega-icon">⚡</span>
+                    <div>
+                      <h4>Overview</h4>
+                      <p>Explore the core capabilities</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="#product-agents" class="mega-link">
+                    <span class="mega-icon">🤖</span>
+                    <div>
+                      <h4>Agent Manager</h4>
+                      <p>Mission control for background agents</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="#product-editor" class="mega-link">
+                    <span class="mega-icon">📝</span>
+                    <div>
+                      <h4>Editor</h4>
+                      <p>AI-powered code editing experience</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="#product-browser" class="mega-link">
+                    <span class="mega-icon">🌐</span>
+                    <div>
+                      <h4>Browser</h4>
+                      <p>Browser-in-the-loop iteration</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="#product-terminal" class="mega-link">
+                    <span class="mega-icon">⌨️</span>
+                    <div>
+                      <h4>Terminal</h4>
+                      <p>Integrated terminal with AI assistance</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="nav-item" data-dropdown="use-cases">
+            <a href="#use-cases" class="nav-trigger" data-interactive="soft">
+              Use Cases <span class="chevron" aria-hidden="true">▾</span>
+            </a>
+            <div class="mega-menu use-cases-menu">
+              <div class="mega-inner">
+                <div class="mega-left">
+                  <h3>Built for every developer</h3>
+                  <p>From frontend builders to enterprise teams, Antigravity adapts to your workflow.</p>
+                </div>
+                <div class="mega-right">
+                  <a href="#use-cases" class="mega-link" data-uc-tab="professional">
+                    <span class="mega-icon">🏢</span>
+                    <div>
+                      <h4>Professional</h4>
+                      <p>Enterprise codebase & parallel agents</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="#use-cases" class="mega-link" data-uc-tab="frontend">
+                    <span class="mega-icon">🎨</span>
+                    <div>
+                      <h4>Frontend</h4>
+                      <p>Visual feedback & responsive building</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="#use-cases" class="mega-link" data-uc-tab="fullstack">
+                    <span class="mega-icon">🔧</span>
+                    <div>
+                      <h4>Fullstack</h4>
+                      <p>Verification, testing & trust</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <a href="#pricing" data-interactive="soft">Pricing</a>
+          <a href="#blog" data-interactive="soft">Blog</a>
+
+          <div class="nav-item" data-dropdown="resources">
+            <a href="#resources" class="nav-trigger" data-interactive="soft">
+              Resources <span class="chevron" aria-hidden="true">▾</span>
+            </a>
+            <div class="mega-menu resources-menu">
+              <div class="mega-inner">
+                <div class="mega-left">
+                  <h3>Everything you need to stay up-to-date and get help</h3>
+                  <p>Guides, references, and community to support your journey.</p>
+                </div>
+                <div class="mega-right">
+                  <a href="/docs/get-started" class="mega-link">
+                    <span class="mega-icon">📄</span>
+                    <div>
+                      <h4>Documentation</h4>
+                      <p>Start building with Antigravity</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="/changelog" class="mega-link">
+                    <span class="mega-icon">📋</span>
+                    <div>
+                      <h4>Changelog</h4>
+                      <p>See what changed recently</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="/support" class="mega-link">
+                    <span class="mega-icon">💬</span>
+                    <div>
+                      <h4>Support</h4>
+                      <p>Get help and troubleshooting</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="/press" class="mega-link">
+                    <span class="mega-icon">📰</span>
+                    <div>
+                      <h4>Press</h4>
+                      <p>Brand resources and announcements</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                  <a href="/releases" class="mega-link">
+                    <span class="mega-icon">🚀</span>
+                    <div>
+                      <h4>Releases</h4>
+                      <p>Download and release notes</p>
+                    </div>
+                    <span class="mega-arrow">→</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
         </nav>
 
-        <a class="download-pill" href="#" data-interactive="strong">
-          <span>Download</span>
-          <span class="download-icon" aria-hidden="true">↓</span>
-        </a>
-      </header>
+        <div class="header-actions">
+          <a class="download-pill" href="#" data-interactive="strong">
+            <span>Download</span>
+            <span class="download-icon" aria-hidden="true">↓</span>
+          </a>
+          <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+            <span class="ham-line"></span>
+            <span class="ham-line"></span>
+            <span class="ham-line"></span>
+          </button>
+        </div>
+      </div>
+    </header>
 
+    <!-- ============ MOBILE DRAWER ============ -->
+    <div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+      <div class="drawer-backdrop" id="drawer-backdrop"></div>
+      <div class="drawer-panel">
+        <nav class="drawer-nav">
+          <div class="drawer-item">
+            <button class="drawer-trigger" data-drawer-toggle="drawer-product">
+              Product <span class="chevron">▾</span>
+            </button>
+            <div class="drawer-sub" id="drawer-product" hidden>
+              <a href="#product">Overview</a>
+              <a href="#product-agents">Agent Manager</a>
+              <a href="#product-editor">Editor</a>
+              <a href="#product-browser">Browser</a>
+              <a href="#product-terminal">Terminal</a>
+            </div>
+          </div>
+          <div class="drawer-item">
+            <button class="drawer-trigger" data-drawer-toggle="drawer-uc">
+              Use Cases <span class="chevron">▾</span>
+            </button>
+            <div class="drawer-sub" id="drawer-uc" hidden>
+              <a href="#use-cases" data-uc-tab="professional">Professional</a>
+              <a href="#use-cases" data-uc-tab="frontend">Frontend</a>
+              <a href="#use-cases" data-uc-tab="fullstack">Fullstack</a>
+            </div>
+          </div>
+          <a href="#pricing" class="drawer-link">Pricing</a>
+          <a href="#blog" class="drawer-link">Blog</a>
+          <div class="drawer-item">
+            <button class="drawer-trigger" data-drawer-toggle="drawer-res">
+              Resources <span class="chevron">▾</span>
+            </button>
+            <div class="drawer-sub" id="drawer-res" hidden>
+              <a href="/docs/get-started">Documentation</a>
+              <a href="/changelog">Changelog</a>
+              <a href="/support">Support</a>
+              <a href="/press">Press</a>
+              <a href="/releases">Releases</a>
+            </div>
+          </div>
+          <a href="#" class="drawer-cta">Download</a>
+        </nav>
+      </div>
+    </div>
+
+    <!-- ============ MAIN CONTENT ============ -->
+    <main class="page-shell">
+
+      <!-- HERO SECTION -->
       <section class="hero" aria-labelledby="hero-title">
         <div class="product-kicker" data-interactive="soft">
           <span class="brand-mark small" aria-hidden="true"></span>
           <span>Google Antigravity</span>
         </div>
-
         <h1 id="hero-title">Experience liftoff with the next-gen agent platform</h1>
-
+        <p class="hero-subtitle">Build, iterate, and ship faster with AI agents that understand your codebase.</p>
         <div class="hero-actions" aria-label="Hero actions">
           <a class="primary-cta" href="#" data-interactive="strong">
             <span class="windows-icon" aria-hidden="true"></span>
             Download for Windows
           </a>
-          <a class="secondary-cta" href="#" data-interactive="strong">Explore use cases</a>
+          <a class="secondary-cta" href="#product" data-interactive="strong">See how it works</a>
+        </div>
+
+        <!-- Hero Video Card -->
+        <div class="hero-video-card" id="hero-video-card">
+          <div class="video-glow"></div>
+          <div class="video-container">
+            <video
+              id="hero-video"
+              src="/videos/Welcome to Google Antigravity 🚀_2160p.mp4"
+              muted
+              loop
+              playsinline
+              poster="/images/blog-feature-introducing-google-antigravity.png"
+            ></video>
+            <button class="video-play-btn" id="hero-play-btn" aria-label="Play intro video">
+              <span class="play-icon">▶</span>
+              <span class="play-label">Play intro</span>
+            </button>
+            <div class="video-border"></div>
+          </div>
         </div>
       </section>
 
-      <button class="video-orbit" type="button" data-interactive="strong" aria-label="Play intro video">
-        <span class="play-dot" aria-hidden="true">▶</span>
-        <span>Play intro</span>
-      </button>
+      <!-- PRODUCT SECTION -->
+      <section class="product-section" id="product" aria-label="Product">
+        <div class="section-header">
+          <span class="section-kicker">Product</span>
+          <h2>The agent-first developer platform</h2>
+          <p class="section-desc">A compact AI surface shaped for planning, editing, terminal work, and autonomous review.</p>
+        </div>
 
-      <section class="below-fold" aria-label="Product summary">
-        <div class="summary-card" data-interactive="soft">
-          <span class="brand-mark small" aria-hidden="true"></span>
-          <p>
-            A compact agent-first surface shaped for planning, editing, terminal work, and review.
-          </p>
+        <!-- Product Video -->
+        <div class="product-video-card" id="product-video-card">
+          <div class="video-container">
+            <video
+              id="product-video"
+              src="/videos/an-agent-first-experience.mp4"
+              muted
+              loop
+              playsinline
+              poster="/images/blog-feature-introducing-google-antigravity.png"
+            ></video>
+            <button class="video-play-btn" id="product-play-btn" aria-label="Play product demo">
+              <span class="play-icon">▶</span>
+              <span class="play-label">Watch demo</span>
+            </button>
+            <div class="video-border"></div>
+          </div>
+        </div>
+
+        <!-- Product Capabilities Grid -->
+        <div class="capabilities-grid">
+          <div class="cap-card" id="product-agents" data-interactive="soft">
+            <div class="cap-icon">🤖</div>
+            <h3>Agent Manager</h3>
+            <p>Mission control for background agents to tackle backlog tasks, perform codebase research, and reduce context switching.</p>
+            <ul class="cap-features">
+              <li>Parallel agent orchestration</li>
+              <li>Task queue management</li>
+              <li>Real-time progress tracking</li>
+            </ul>
+          </div>
+          <div class="cap-card" id="product-editor" data-interactive="soft">
+            <div class="cap-icon">📝</div>
+            <h3>Editor</h3>
+            <p>A fully-featured AI code editor with inline suggestions, multi-file awareness, and intelligent refactoring.</p>
+            <ul class="cap-features">
+              <li>Inline AI completions</li>
+              <li>Multi-file context awareness</li>
+              <li>Smart refactoring tools</li>
+            </ul>
+          </div>
+          <div class="cap-card" id="product-browser" data-interactive="soft">
+            <div class="cap-icon">🌐</div>
+            <h3>Browser</h3>
+            <p>Browser-in-the-loop iteration for visual feedback and responsive frontend building at unprecedented speed.</p>
+            <ul class="cap-features">
+              <li>Live preview integration</li>
+              <li>Visual diff comparison</li>
+              <li>Responsive testing tools</li>
+            </ul>
+          </div>
+          <div class="cap-card" id="product-terminal" data-interactive="soft">
+            <div class="cap-icon">⌨️</div>
+            <h3>Terminal</h3>
+            <p>Integrated terminal with AI-powered command suggestions, error diagnosis, and automated workflows.</p>
+            <ul class="cap-features">
+              <li>Natural language commands</li>
+              <li>Automatic error diagnosis</li>
+              <li>Script generation</li>
+            </ul>
+          </div>
+          <div class="cap-card" data-interactive="soft">
+            <div class="cap-icon">🎨</div>
+            <h3>Artifacts</h3>
+            <p>Communicate with agents through structured artifacts — diagrams, schemas, API specs, and documentation.</p>
+            <ul class="cap-features">
+              <li>Visual artifact rendering</li>
+              <li>Schema documentation</li>
+              <li>API spec generation</li>
+            </ul>
+          </div>
+          <div class="cap-card" data-interactive="soft">
+            <div class="cap-icon">✅</div>
+            <h3>Verification</h3>
+            <p>Autonomous testing and verification to build trust in AI-generated code before it ships.</p>
+            <ul class="cap-features">
+              <li>Automated test generation</li>
+              <li>Code review assistance</li>
+              <li>Safety checks</li>
+            </ul>
+          </div>
         </div>
       </section>
+
+      <!-- USE CASES SECTION -->
+      <section class="use-cases-section" id="use-cases" aria-label="Use Cases">
+        <div class="section-header">
+          <span class="section-kicker">Use Cases</span>
+          <h2>Built for developers in the agent-first era</h2>
+          <p class="section-desc">Choose your workflow and see how Antigravity transforms your development experience.</p>
+        </div>
+
+        <!-- Use Case Tabs -->
+        <div class="uc-tabs" role="tablist">
+          <button class="uc-tab active" data-uc="professional" role="tab" aria-selected="true">
+            <span class="uc-tab-icon">🏢</span>
+            Professional
+          </button>
+          <button class="uc-tab" data-uc="frontend" role="tab" aria-selected="false">
+            <span class="uc-tab-icon">🎨</span>
+            Frontend
+          </button>
+          <button class="uc-tab" data-uc="fullstack" role="tab" aria-selected="false">
+            <span class="uc-tab-icon">🔧</span>
+            Fullstack
+          </button>
+        </div>
+
+        <!-- Professional Tab Content -->
+        <div class="uc-panel active" data-uc-panel="professional" role="tabpanel">
+          <div class="uc-panel-inner">
+            <div class="uc-content">
+              <div class="uc-badge">Enterprise</div>
+              <h3>Professional developers & large codebases</h3>
+              <p>Antigravity's Agent Manager provides mission control for background agents to tackle backlog tasks, perform deep codebase research, and dramatically reduce context switching for teams working on large-scale systems.</p>
+              <ul class="uc-features">
+                <li><strong>Parallel Agent Orchestration</strong> — Run multiple agents simultaneously on different tasks across your monorepo</li>
+                <li><strong>Knowledge Management</strong> — Agents learn and retain your codebase architecture, conventions, and patterns</li>
+                <li><strong>Workflow Automation</strong> — Automate PR reviews, dependency updates, and code migrations with confidence</li>
+              </ul>
+              <a href="#" class="uc-cta" data-interactive="soft">Explore Professional use case →</a>
+            </div>
+            <div class="uc-thumbnail">
+              <img src="/images/landing-thumbnail-enterprise.jpg" alt="Professional use case" />
+              <button class="tile-play-btn" data-video="an-agent-first-experience" aria-label="Play video">
+                <span>▶</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Frontend Tab Content -->
+        <div class="uc-panel" data-uc-panel="frontend" role="tabpanel" hidden>
+          <div class="uc-panel-inner">
+            <div class="uc-content">
+              <div class="uc-badge">Frontend</div>
+              <h3>Visual, responsive frontend development</h3>
+              <p>Antigravity's agents use browser-in-the-loop iteration and visual feedback to speed up the tedious parts of frontend development, helping you build beautiful, performant, and responsive interfaces with ease.</p>
+              <ul class="uc-features">
+                <li><strong>Browser-in-the-Loop</strong> — Agents see your UI in real-time and make pixel-perfect adjustments</li>
+                <li><strong>Visual Feedback</strong> — Get instant visual diff comparisons for every change agents make</li>
+                <li><strong>Responsive Building</strong> — Automatically test and fix layouts across breakpoints</li>
+              </ul>
+              <a href="#" class="uc-cta" data-interactive="soft">Explore Frontend use case →</a>
+            </div>
+            <div class="uc-thumbnail">
+              <img src="/images/landing-thumbnail-frontend.jpg" alt="Frontend use case" />
+              <button class="tile-play-btn" data-video="cross-surface-agents" aria-label="Play video">
+                <span>▶</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Fullstack Tab Content -->
+        <div class="uc-panel" data-uc-panel="fullstack" role="tabpanel" hidden>
+          <div class="uc-panel-inner">
+            <div class="uc-content">
+              <div class="uc-badge">Fullstack</div>
+              <h3>Verification-first fullstack development</h3>
+              <p>Antigravity's agents emphasize verification, communicating to users via Artifacts and tasks to tackle complex challenges and build user trust through transparent, testable code generation.</p>
+              <ul class="uc-features">
+                <li><strong>Verification & Testing</strong> — Every code change comes with generated tests and safety checks</li>
+                <li><strong>Artifact Communication</strong> — Review generated API specs, schemas, and diagrams before code</li>
+                <li><strong>Trust & Transparency</strong> — Full traceability of agent decisions and reasoning chains</li>
+              </ul>
+              <a href="#" class="uc-cta" data-interactive="soft">Explore Fullstack use case →</a>
+            </div>
+            <div class="uc-thumbnail">
+              <img src="/images/landing-thumbnail-fullstack.jpg" alt="Fullstack use case" />
+              <button class="tile-play-btn" data-video="higher-level-abstractions" aria-label="Play video">
+                <span>▶</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- PRICING SECTION -->
+      <section class="pricing-section" id="pricing" aria-label="Pricing">
+        <div class="section-header">
+          <span class="section-kicker">Pricing</span>
+          <h2>Simple, transparent pricing</h2>
+          <p class="section-desc">Start free, scale as you grow</p>
+        </div>
+        <div class="pricing-grid">
+          <div class="pricing-card" data-interactive="soft">
+            <h3>Free</h3>
+            <div class="pricing-price">$0<span>/month</span></div>
+            <p class="pricing-tagline">For individual developers getting started</p>
+            <ul class="pricing-features">
+              <li>✓ Basic agent capabilities</li>
+              <li>✓ Community support</li>
+              <li>✓ 50 agent requests/day</li>
+              <li>✓ Single editor session</li>
+            </ul>
+            <a href="#" class="pricing-btn secondary">Get started free</a>
+          </div>
+          <div class="pricing-card featured" data-interactive="soft">
+            <div class="pricing-badge">Most popular</div>
+            <h3>Pro</h3>
+            <div class="pricing-price">$20<span>/month</span></div>
+            <p class="pricing-tagline">For professional developers</p>
+            <ul class="pricing-features">
+              <li>✓ Advanced agent capabilities</li>
+              <li>✓ Priority support</li>
+              <li>✓ Unlimited agent requests</li>
+              <li>✓ Multi-file context</li>
+              <li>✓ Agent Manager access</li>
+              <li>✓ Custom configurations</li>
+            </ul>
+            <a href="#" class="pricing-btn primary">Start Pro trial</a>
+          </div>
+          <div class="pricing-card" data-interactive="soft">
+            <h3>Enterprise</h3>
+            <div class="pricing-price">Custom</div>
+            <p class="pricing-tagline">For teams and organizations</p>
+            <ul class="pricing-features">
+              <li>✓ Everything in Pro</li>
+              <li>✓ Dedicated support & SLA</li>
+              <li>✓ SSO & SAML integration</li>
+              <li>✓ Team knowledge base</li>
+              <li>✓ Audit logs & compliance</li>
+              <li>✓ Custom model fine-tuning</li>
+            </ul>
+            <a href="#" class="pricing-btn secondary">Contact sales</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- BLOG SECTION -->
+      <section class="blog-section" id="blog" aria-label="Blog">
+        <div class="section-header">
+          <span class="section-kicker">Blog</span>
+          <h2>Latest from Antigravity</h2>
+          <p class="section-desc">Stay up to date with the newest features and insights</p>
+        </div>
+        <div class="blog-grid">
+          <div class="blog-card" data-interactive="soft">
+            <div class="blog-thumbnail">
+              <img src="/images/blog-feature-introducing-google-antigravity.png" alt="Introducing Google Antigravity" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-tags">
+                <span class="blog-tag">Announcement</span>
+              </div>
+              <h3>Introducing Google Antigravity</h3>
+              <p>The next-generation agent platform for developers. Build, iterate, and ship with AI-first workflows.</p>
+              <div class="blog-meta">
+                <span class="blog-date">May 2026</span>
+                <span class="blog-read">5 min read</span>
+              </div>
+            </div>
+          </div>
+          <div class="blog-card" data-interactive="soft">
+            <div class="blog-thumbnail">
+              <img src="/images/blog-gemini-3-1-pro-square.png" alt="Gemini 3.1 Pro" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-tags">
+                <span class="blog-tag">Integration</span>
+              </div>
+              <h3>Gemini 3.1 Pro integration</h3>
+              <p>Harness the power of Google's latest model with advanced reasoning and code generation.</p>
+              <div class="blog-meta">
+                <span class="blog-date">May 2026</span>
+                <span class="blog-read">4 min read</span>
+              </div>
+            </div>
+          </div>
+          <div class="blog-card" data-interactive="soft">
+            <div class="blog-thumbnail">
+              <img src="/images/blog-gemini-3-flash-square.png" alt="Agent Manager" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-tags">
+                <span class="blog-tag">Feature</span>
+              </div>
+              <h3>Agent Manager: Mission control for code</h3>
+              <p>Run parallel agents that tackle your backlog while you focus on what matters most.</p>
+              <div class="blog-meta">
+                <span class="blog-date">May 2026</span>
+                <span class="blog-read">6 min read</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- RESOURCES SECTION -->
+      <section class="resources-section" id="resources" aria-label="Resources">
+        <div class="section-header">
+          <span class="section-kicker">Resources</span>
+          <h2>Everything you need to get started</h2>
+          <p class="section-desc">Guides, tools, and community to support your development journey.</p>
+        </div>
+        <div class="resources-grid">
+          <a href="/docs/get-started" class="resource-card" data-interactive="soft">
+            <div class="resource-card-icon">📄</div>
+            <h3>Documentation</h3>
+            <p>Comprehensive guides and API references to get you started</p>
+            <span class="resource-card-link">Read docs →</span>
+          </a>
+          <a href="/changelog" class="resource-card" data-interactive="soft">
+            <div class="resource-card-icon">📋</div>
+            <h3>Changelog</h3>
+            <p>See what's new and improved in every release</p>
+            <span class="resource-card-link">View changelog →</span>
+          </a>
+          <a href="/support" class="resource-card" data-interactive="soft">
+            <div class="resource-card-icon">💬</div>
+            <h3>Support</h3>
+            <p>Get help from the community and our team</p>
+            <span class="resource-card-link">Get support →</span>
+          </a>
+          <a href="/press" class="resource-card" data-interactive="soft">
+            <div class="resource-card-icon">📰</div>
+            <h3>Press</h3>
+            <p>Brand assets, media resources and press kit</p>
+            <span class="resource-card-link">View assets →</span>
+          </a>
+          <a href="/releases" class="resource-card" data-interactive="soft">
+            <div class="resource-card-icon">🚀</div>
+            <h3>Releases</h3>
+            <p>Download the latest version for your platform</p>
+            <span class="resource-card-link">Download →</span>
+          </a>
+        </div>
+      </section>
+
     </main>
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="footer-brand-col">
+          <div class="footer-brand">
+            <span class="brand-mark" aria-hidden="true"></span>
+            <span>Google Antigravity</span>
+          </div>
+          <p class="footer-tagline">The next-generation agent platform for developers.</p>
+        </div>
+        <div class="footer-links-grid">
+          <div class="footer-col">
+            <h4>Product</h4>
+            <a href="#product">Overview</a>
+            <a href="#product-agents">Agent Manager</a>
+            <a href="#product-editor">Editor</a>
+            <a href="#product-browser">Browser</a>
+            <a href="#product-terminal">Terminal</a>
+            <a href="#pricing">Pricing</a>
+          </div>
+          <div class="footer-col">
+            <h4>Use Cases</h4>
+            <a href="#use-cases" data-uc-tab="professional">Professional</a>
+            <a href="#use-cases" data-uc-tab="frontend">Frontend</a>
+            <a href="#use-cases" data-uc-tab="fullstack">Fullstack</a>
+          </div>
+          <div class="footer-col">
+            <h4>Resources</h4>
+            <a href="/docs/get-started">Documentation</a>
+            <a href="/changelog">Changelog</a>
+            <a href="/support">Support</a>
+            <a href="/press">Press</a>
+            <a href="/releases">Releases</a>
+          </div>
+          <div class="footer-col">
+            <h4>Company</h4>
+            <a href="#blog">Blog</a>
+            <a href="#">About</a>
+            <a href="#">Careers</a>
+            <a href="#">Contact</a>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <div class="footer-copy">© 2026 Google Antigravity. All rights reserved.</div>
+          <div class="footer-legal">
+            <a href="#">Privacy</a>
+            <a href="#">Terms</a>
+            <a href="#">Security</a>
+            <a href="#">Status</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- ============ VIDEO MODAL ============ -->
+    <div class="video-modal" id="video-modal" hidden>
+      <div class="video-modal-backdrop" id="video-modal-backdrop"></div>
+      <div class="video-modal-content">
+        <button class="video-modal-close" id="video-modal-close" aria-label="Close video">✕</button>
+        <video id="video-modal-player" controls autoplay></video>
+      </div>
+    </div>
 
     <div id="debug-panel" class="debug-panel" hidden></div>
 
